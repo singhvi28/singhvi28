@@ -15,6 +15,40 @@
 
 ---
 
+### 🏆 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/akshitsinghvi28/">
+    <img src="https://leetcard.jacoblin.cool/akshitsinghvi28?theme=dark&font=Ubuntu" alt="LeetCode Stats" height="180" />
+  </a>
+  <a href="https://codeforces.com/profile/akshitsinghvi28">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=akshitsinghvi28&theme=dark" alt="Codeforces Stats" height="180" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Technologies
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+<br />
+
+- **Languages & Scripting:** Python, Bash / Shell, SQL
+- **Databases & In-Memory:** PostgreSQL, MySQL, Redis, SQLite
+- **Backend & APIs:** FastAPI, Django, Flask, REST APIs
+- **Tools & Systems:** Linux / Unix, Git, Docker, Postman
+
+---
+
 🧠 Passionate about **problem solving**, **competitive programming**, and **building scalable software systems**.  
 💻 Regularly exploring advanced algorithms, data structures, and backend systems.  
 🚀 Always curious, always learning and building.  
