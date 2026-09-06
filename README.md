@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/singhvi28" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Akshit+Singhvi!;%3CCompetitive+Programmer%3E;%3CSoftware+Engineer%3E;%3CProblem+Solver+%2F+CS+Enthusiast%3E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Akshit+Singhvi!;%3CCompetitive+Programmer%3E;%3CPython+Software+Engineer%3E;%3CProblem+Solver+%2F+CS+Enthusiast%3E" alt="Typing SVG" />
   </a>
   <br />
 
