@@ -15,8 +15,6 @@
 
 ---
 
-### 📊 Merged Activity Heatmap
-
 <p align="center">
   <img src="combined_activity.svg" alt="Merged Activity Heatmap" width="100%" />
 </p>
