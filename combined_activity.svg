@@ -16,7 +16,7 @@
 
   <rect width="809" height="220" class="bg" />
   <text x="24" y="30" class="title">Merged Activity Heatmap</text>
-  <text x="24" y="52" class="subtitle"><tspan font-weight="600" fill="#c9d1d9">1,822 Total Activities</tspan> in the last year  •  <tspan class="badge-gh">GitHub:</tspan> 307  •  <tspan class="badge-lc">LeetCode:</tspan> 796  •  <tspan class="badge-cf">Codeforces:</tspan> 719</text>
+  <text x="24" y="52" class="subtitle"><tspan font-weight="600" fill="#c9d1d9">1,811 Total Activities</tspan> in the last year  •  <tspan class="badge-gh">GitHub:</tspan> 310  •  <tspan class="badge-lc">LeetCode:</tspan> 780  •  <tspan class="badge-cf">Codeforces:</tspan> 721</text>
   <text x="42" y="76" class="lbl">Sep</text>
   <text x="98" y="76" class="lbl">Oct</text>
   <text x="154" y="76" class="lbl">Nov</text>
@@ -33,7 +33,7 @@
   <text x="14" y="109" class="lbl">Mon</text>
   <text x="14" y="137" class="lbl">Wed</text>
   <text x="14" y="165" class="lbl">Fri</text>
-  <rect x="42" y="86" width="11" height="11" fill="#39d353" class="cell"><title>2025-09-07: 28 activities (2 GitHub, 17 LeetCode, 9 Codeforces)</title></rect>
+  <rect x="42" y="86" width="11" height="11" fill="#39d353" class="cell"><title>2025-09-07: 11 activities (2 GitHub, 0 LeetCode, 9 Codeforces)</title></rect>
   <rect x="42" y="100" width="11" height="11" fill="#0e4429" class="cell"><title>2025-09-08: 1 activities (0 GitHub, 1 LeetCode, 0 Codeforces)</title></rect>
   <rect x="42" y="114" width="11" height="11" fill="#006d32" class="cell"><title>2025-09-09: 5 activities (0 GitHub, 1 LeetCode, 4 Codeforces)</title></rect>
   <rect x="42" y="128" width="11" height="11" fill="#161b22" class="cell"><title>2025-09-10: 0 activities (0 GitHub, 0 LeetCode, 0 Codeforces)</title></rect>
@@ -398,7 +398,8 @@
   <rect x="756" y="156" width="11" height="11" fill="#26a641" class="cell"><title>2026-09-04: 6 activities (0 GitHub, 1 LeetCode, 5 Codeforces)</title></rect>
   <rect x="756" y="170" width="11" height="11" fill="#0e4429" class="cell"><title>2026-09-05: 1 activities (0 GitHub, 1 LeetCode, 0 Codeforces)</title></rect>
   <rect x="770" y="86" width="11" height="11" fill="#39d353" class="cell"><title>2026-09-06: 27 activities (22 GitHub, 1 LeetCode, 4 Codeforces)</title></rect>
-  <rect x="770" y="100" width="11" height="11" fill="#161b22" class="cell"><title>2026-09-07: 0 activities (0 GitHub, 0 LeetCode, 0 Codeforces)</title></rect>
+  <rect x="770" y="100" width="11" height="11" fill="#26a641" class="cell"><title>2026-09-07: 6 activities (3 GitHub, 1 LeetCode, 2 Codeforces)</title></rect>
+  <rect x="770" y="114" width="11" height="11" fill="#161b22" class="cell"><title>2026-09-08: 0 activities (0 GitHub, 0 LeetCode, 0 Codeforces)</title></rect>
   <text x="646" y="209" class="lbl">Less</text>
   <rect x="676" y="200" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="690" y="200" width="11" height="11" fill="#0e4429" class="cell" />
