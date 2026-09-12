@@ -37,7 +37,7 @@
   <rect x="42" y="100" width="11" height="11" fill="#161b22" class="cell"><title>2025-09-08: 0 activities (0 GitHub, 0 LeetCode, 0 Codeforces)</title></rect>
   <rect x="42" y="114" width="11" height="11" fill="#006d32" class="cell"><title>2025-09-09: 4 activities (0 GitHub, 0 LeetCode, 4 Codeforces)</title></rect>
   <rect x="42" y="128" width="11" height="11" fill="#161b22" class="cell"><title>2025-09-10: 0 activities (0 GitHub, 0 LeetCode, 0 Codeforces)</title></rect>
-  <rect x="42" y="142" width="11" height="11" fill="#0e4429" class="cell"><title>2025-09-11: 1 activities (0 GitHub, 1 LeetCode, 0 Codeforces)</title></rect>
+  <rect x="42" y="142" width="11" height="11" fill="#161b22" class="cell"><title>2025-09-11: 0 activities (0 GitHub, 0 LeetCode, 0 Codeforces)</title></rect>
   <rect x="42" y="156" width="11" height="11" fill="#161b22" class="cell"><title>2025-09-12: 0 activities (0 GitHub, 0 LeetCode, 0 Codeforces)</title></rect>
   <rect x="42" y="170" width="11" height="11" fill="#26a641" class="cell"><title>2025-09-13: 8 activities (0 GitHub, 0 LeetCode, 8 Codeforces)</title></rect>
   <rect x="56" y="86" width="11" height="11" fill="#006d32" class="cell"><title>2025-09-14: 3 activities (0 GitHub, 0 LeetCode, 3 Codeforces)</title></rect>
@@ -402,7 +402,8 @@
   <rect x="770" y="114" width="11" height="11" fill="#0e4429" class="cell"><title>2026-09-08: 1 activities (0 GitHub, 1 LeetCode, 0 Codeforces)</title></rect>
   <rect x="770" y="128" width="11" height="11" fill="#0e4429" class="cell"><title>2026-09-09: 1 activities (0 GitHub, 1 LeetCode, 0 Codeforces)</title></rect>
   <rect x="770" y="142" width="11" height="11" fill="#0e4429" class="cell"><title>2026-09-10: 1 activities (0 GitHub, 1 LeetCode, 0 Codeforces)</title></rect>
-  <rect x="770" y="156" width="11" height="11" fill="#161b22" class="cell"><title>2026-09-11: 0 activities (0 GitHub, 0 LeetCode, 0 Codeforces)</title></rect>
+  <rect x="770" y="156" width="11" height="11" fill="#0e4429" class="cell"><title>2026-09-11: 1 activities (0 GitHub, 1 LeetCode, 0 Codeforces)</title></rect>
+  <rect x="770" y="170" width="11" height="11" fill="#161b22" class="cell"><title>2026-09-12: 0 activities (0 GitHub, 0 LeetCode, 0 Codeforces)</title></rect>
   <text x="646" y="209" class="lbl">Less</text>
   <rect x="676" y="200" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="690" y="200" width="11" height="11" fill="#0e4429" class="cell" />
