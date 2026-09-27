@@ -10,7 +10,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/singhvi28)
 
   <br />
-  📫 How to reach me: **akkisinghvi28@gmail.com**
+  📫 How to reach me: **akshitsinghvi28@gmail.com**
 </div>
 
 ---
